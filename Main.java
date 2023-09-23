@@ -19,6 +19,7 @@ class Mobil {
 // Kelas utama Main
 public class Main {
 
+     // Metode utama (main method)
     public static void main(String[] args) {
         // Membuat objek mobil1 dari kelas Mobil
         Mobil mobil1 = new Mobil();
