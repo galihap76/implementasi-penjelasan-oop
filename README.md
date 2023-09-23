@@ -1,7 +1,5 @@
 ## Penjelasan
-OOP adalah singkatan dari "Object-Oriented Programming" (Pemrograman Berorientasi Objek) yang merupakan paradigma pemrograman yang berfokus pada penggunaan objek sebagai dasar untuk merancang dan mengembangkan perangkat lunak. Paradigma OOP dalam pemrograman yang memungkinkan penggunaan objek-objek untuk merepresentasikan entitas nyata atau abstrak dalam sistem perangkat lunak. 
-
-Sistem ini dibangun berdasarkan objek-objek yang memiliki atribut (data) dan metode (fungsi) yang digunakan untuk berinteraksi satu sama lain maupun menjalankan aksi program. Paradigma ini memungkinkan pemrogram untuk mengorganisasi kode mereka dalam bentuk objek yang merepresentasikan entitas nyata atau abstrak dalam sistem yang sedang dibangun.
+OOP adalah singkatan dari "Object-Oriented Programming" (Pemrograman Berorientasi Objek) yang merupakan paradigma pemrograman yang berfokus pada penggunaan objek sebagai dasar untuk merancang dan mengembangkan perangkat lunak. Mekanisme penggunaan OOP pada pemrograman menggunakan paradigma objek yang di mana ini mengacu seperti objek nyata. Jika kita membuat OOP, tentu harus ada class untuk menginisialisasi dan method sebagai jalan nya aksi program OOP.
 
 Konsep dasar dalam pemrograman berorientasi objek mencakup :
 - Objek : Objek adalah instansi dari kelas. Mereka merupakan entitas yang memiliki data (atribut) dan perilaku (metode). Contohnya, dalam program perbankan, Anda dapat memiliki objek "Akun" yang memiliki atribut seperti saldo dan nomor akun, serta metode untuk melakukan operasi seperti penyetoran dan penarikan.
